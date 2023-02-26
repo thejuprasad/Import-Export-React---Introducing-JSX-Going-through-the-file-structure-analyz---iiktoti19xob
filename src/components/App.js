@@ -7,7 +7,7 @@ const App = () => {
       <Heading />
       <subHeading />
       <InputQuery />
-      <submitButton />
+      <SubmitButton />
     </div>
   )
 }
